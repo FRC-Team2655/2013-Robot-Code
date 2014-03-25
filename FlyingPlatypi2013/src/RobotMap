@@ -1,0 +1,27 @@
+  
+//Slot Number
+private final int slotNumber = 2;
+    
+
+//Motor PWM Channels
+    private final int driveTrain1PWM = 1;
+    private final int driveTrain2PWM = 2;
+    private final int climb1PWM = 3;
+    private final int climb2PWM = 4;
+
+
+    //Relay PWM channels
+    private final int shooterRelayPWM = 5;
+    private final int compressorRelayPWM = 6;
+
+// Encoder Channels   
+    private final int encoder1Channel1 = 1;
+    private final int encoder1Channel2 = 2;
+    private final int encoder2Channel1 = 3;
+    private final int encoder2Channel2 = 4;
+
+
+
+Compressor Pressure Switch: DIO 5 : Ignore
+
+Camera: Camera : Ignore
